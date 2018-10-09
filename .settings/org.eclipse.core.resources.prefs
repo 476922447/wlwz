@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/Config.properties=GBK
+encoding//src/com/huic/gai/House/filter=GBK
+encoding//src/com/wlwz/dao=GBK
+encoding//src/com/wlwz/db=GBK
+encoding//src/com/wlwz/impl=GBK
+encoding//src/com/wlwz/mail=GBK
+encoding//src/com/wlwz/servlet=GBK
+encoding//src/com/wlwz/sz/upload=GBK
+encoding//src/com/wlwz/util=GBK
+encoding/<project>=GBK
